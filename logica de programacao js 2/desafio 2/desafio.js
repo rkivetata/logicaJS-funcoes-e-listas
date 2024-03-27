@@ -25,4 +25,4 @@ function maiorNumero(numero1, numero2) { // function que recebe duas vars como p
 }
 
 let encontrarNumero = maiorNumero (7, 15); //a var atribuiu a function seus devidos valores
-console.log(encontrarNumero);
+console.log(encontrarNumero); 
